@@ -1,0 +1,11 @@
+review_id,review_text,sentiment_score,sentiment_label
+1,"I am very happy with the product. Delivery was fast and quality is excellent.",2,Positive
+2,"Product quality is good but delivery was delayed.",0,Neutral
+3,"Very खराब experience. Product is not working properly.",-2,Negative
+4,"Amazing product! Worth the money.",2,Positive
+5,"Packaging was good but product quality is average.",0,Neutral
+6,"Terrible service. I am not satisfied with the product.",-2,Negative
+7,"Good product.",1,Positive
+8,"Delivery was quick and customer support was helpful.",2,Positive
+9,"The item is okay but not as expected.",0,Neutral
+10,"Worst purchase ever. Completely disappointed.",-2,Negative
